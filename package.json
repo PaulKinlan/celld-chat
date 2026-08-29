@@ -1,0 +1,12 @@
+{
+  "name": "celld-chat",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --outDir target --emptyOutDir"
+  },
+  "devDependencies": {
+    "vite": "^7"
+  }
+}
